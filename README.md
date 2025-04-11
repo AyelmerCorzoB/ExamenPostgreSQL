@@ -31,6 +31,9 @@ La base de datos se llama `techzone` y contiene las siguientes tablas principale
 - `ventas`
 - Procedimientos y funciones en PL/pgSQL para registrar ventas y validar clientes.
 
+## Imagen del modelo E-R
+
+![modelo_er](https://github.com/user-attachments/assets/237ff389-f066-43e5-9953-c1ce536bccdb)
 
 ## Cómo utilizar
 
